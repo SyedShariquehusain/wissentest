@@ -1,0 +1,44 @@
+h1,
+p {
+  font-family: Lato;
+}
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  width: 60%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  height: 30px;
+  border: 2px solid rgb(182, 179, 179);
+  border-radius: 5px;
+}
+.formContainer {
+  padding: 90px;
+}
+.loginButton {
+  width: 60%;
+  height: 30px;
+  color: #2639a7;
+  background-color: #d1d5ec;
+  border: 0px;
+  border-radius: 7px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.term {
+  width: 60%;
+  color: grey;
+}
+.checkbox {
+  border: 2px solid rgb(182, 179, 179);
+  border-radius: 5px;
+}
+.sso {
+  width: 60%;
+  color: #2639a7;
+  text-align: center;
+  margin-top: 40px;
+}
